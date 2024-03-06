@@ -25,7 +25,7 @@
 | pointset | pointset_publish | beta | <img src="img/yes.png"> | <img src="img/yes.png"> | <img src="img/yes.png"> | <img src="img/yes.png"> | <img src="img/yes.png"> |<img src="img/yes.png">| <img src="img/yes.png">|
 | pointset | pointset_publish_interval | beta | <img src="img/yes.png"> |<img src="img/yes.png">| <img src="img/no.png"> |<img src="img/no.png">| <img src="img/yes.png"> |<img src="img/yes.png"> |<img src="img/no.png">|
 | pointset | pointset_remove_point | beta | <img src="img/no.png"> |<img src="img/no.png">| <img src="img/no.png"> |<img src="img/no.png">| <img src="img/yes.png"> |<img src="img/yes.png">|<img src="img/yes.png">|
-| pointset | pointset_request_extraneous | beta | <img src="img/no.png"> |<img src="img/no.png">| <img src="img/no.png"> |<img src="img/no.png">| <img src="img/yes.png"> |<img src="img/no.png">|$\color{grey}{unknown}$|
+| pointset | pointset_request_extraneous | beta | <img src="img/no.png"> |<img src="img/no.png">| <img src="img/no.png"> |<img src="img/no.png">| <img src="img/yes.png"> |<img src="img/no.png">|<img src="img/skip.png">|
 | pointset | pointset_sample_rate | beta | <img src="img/yes.png"> |<img src="img/yes.png">| <img src="img/no.png"> |<img src="img/no.png">| <img src="img/yes.png"> |<img src="img/yes.png">|<img src="img/no.png">|
 | system | broken_config | beta | <img src="img/yes.png"> |<img src="img/yes.png">| <img src="img/yes.png"> |<img src="img/yes.png">| <img src="img/yes.png"> |<img src="img/yes.png">|<img src="img/no.png">|
 | system | config_logging.receive | beta | <img src="img/no.png"> |<img src="img/yes.png"> | <img src="img/no.png"> |<img src="img/no.png">| <img src="img/yes.png"> |<img src="img/no.png">|<img src="img/no.png">|
